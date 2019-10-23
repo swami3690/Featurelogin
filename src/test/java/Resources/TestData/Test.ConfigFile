@@ -1,0 +1,9 @@
+Url = https://opensource-demo.orangehrmlive.com/index.php/auth/login
+browser =  chrome
+username = Admin
+password = admin123
+username1 = address
+password1 = address
+
+SAUCE_USERNAME = Das.arpi_shah09
+SAUCE_ACCESS_KEY = adfc1745-ed1f-4099-815c-d6e3a7b1db17
